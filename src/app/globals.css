@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=VT323&family=Press+Start+2P&display=swap');
+@import "tailwindcss";
+
+:root {
+  --xp-blue: #0054E3;
+  --xp-light-blue: #3C8CF7;
+  --xp-green: #76B541;
+  --xp-desktop-bg: #3A6EA5;
+  --window-border: #0831D9;
+  --taskbar-blue: #245EDC;
+  --title-bar-start: #0997FF;
+  --title-bar-end: #0053EE;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Tahoma', 'MS Sans Serif', sans-serif;
+  background: var(--xp-desktop-bg);
+  height: 100vh;
+  overflow: hidden;
+}
+
+/* Win95 window chrome */
+.window {
+  background: #c0c0c0;
+  border: 2px solid;
+  border-color: #ffffff #808080 #808080 #ffffff;
+  box-shadow: 1px 1px 0 0 #000;
+}
+
+.window-inner {
+  border: 2px solid;
+  border-color: #808080 #ffffff #ffffff #808080;
+}
+
+.title-bar {
+  background: linear-gradient(to right, var(--title-bar-start), var(--title-bar-end));
+  color: white;
+  padding: 3px 4px;
+  font-weight: bold;
+  font-size: 13px;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  user-select: none;
+}
+
+.title-bar-button {
+  width: 18px;
+  height: 18px;
+  background: #c0c0c0;
+  border: 2px solid;
+  border-color: #ffffff #808080 #808080 #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 10px;
+  cursor: pointer;
+  line-height: 1;
+}
+
+.title-bar-button:active {
+  border-color: #808080 #ffffff #ffffff #808080;
+}
+
+/* Win95 inset panel */
+.inset {
+  border: 2px solid;
+  border-color: #808080 #ffffff #ffffff #808080;
+  background: #fff;
+}
+
+/* Win95 button */
+.win-button {
+  background: #c0c0c0;
+  border: 2px solid;
+  border-color: #ffffff #808080 #808080 #ffffff;
+  padding: 4px 16px;
+  font-family: 'Tahoma', 'MS Sans Serif', sans-serif;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+.win-button:active {
+  border-color: #808080 #ffffff #ffffff #808080;
+}
+
+/* Win95 text input */
+.win-input {
+  border: 2px solid;
+  border-color: #808080 #ffffff #ffffff #808080;
+  background: #fff;
+  padding: 4px 6px;
+  font-family: 'Tahoma', 'MS Sans Serif', sans-serif;
+  font-size: 13px;
+  outline: none;
+}
+
+/* Taskbar */
+.taskbar {
+  background: linear-gradient(to bottom, #245EDC, #1842a0);
+  height: 36px;
+  display: flex;
+  align-items: center;
+  padding: 0 4px;
+  border-top: 2px solid #5c96e8;
+}
+
+.start-button {
+  background: linear-gradient(to bottom, #3c8f3c, #2d6e2d);
+  border: 2px solid;
+  border-color: #6abf6a #1a4d1a #1a4d1a #6abf6a;
+  border-radius: 0 8px 8px 0;
+  color: white;
+  font-weight: bold;
+  font-size: 13px;
+  padding: 2px 12px 2px 6px;
+  cursor: pointer;
+  font-family: 'Tahoma', sans-serif;
+  letter-spacing: 0.5px;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 16px;
+}
+
+::-webkit-scrollbar-track {
+  background: #c0c0c0;
+  border: 1px solid #808080;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #c0c0c0;
+  border: 2px solid;
+  border-color: #ffffff #808080 #808080 #ffffff;
+}
