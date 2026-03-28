@@ -1,0 +1,1010 @@
+[
+  {
+    "name": "Cumberland",
+    "mapId": 40230,
+    "lines": "Blue Line",
+    "lat": 41.98429405782801,
+    "lng": -87.83802598504772
+  },
+  {
+    "name": "Oak Park-Lake",
+    "mapId": 40350,
+    "lines": "Green Line (Lake)",
+    "lat": 41.88698752161339,
+    "lng": -87.79378335175879
+  },
+  {
+    "name": "Austin-Lake",
+    "mapId": 40260,
+    "lines": "Green Line (Lake)",
+    "lat": 41.887292784706375,
+    "lng": -87.77413525552275
+  },
+  {
+    "name": "Ashland-Lake",
+    "mapId": 40170,
+    "lines": "Green (Lake), Pink",
+    "lat": 41.88531139557953,
+    "lng": -87.6669509366128
+  },
+  {
+    "name": "Clinton-Lake",
+    "mapId": 40160,
+    "lines": "Green (Lake), Pink",
+    "lat": 41.885703423676155,
+    "lng": -87.64177130414286
+  },
+  {
+    "name": "Grand/Milwaukee",
+    "mapId": 40490,
+    "lines": "Blue Line (O'Hare)",
+    "lat": 41.89118929406765,
+    "lng": -87.64757831015247
+  },
+  {
+    "name": "Chicago/Milwaukee",
+    "mapId": 40410,
+    "lines": "Blue Line",
+    "lat": 41.89607523740354,
+    "lng": -87.65521427917491
+  },
+  {
+    "name": "Damen/Milwaukee",
+    "mapId": 40590,
+    "lines": "Blue Line",
+    "lat": 41.90974379246453,
+    "lng": -87.67743665449984
+  },
+  {
+    "name": "California/Milwaukee",
+    "mapId": 40570,
+    "lines": "Blue Line (O'Hare)",
+    "lat": 41.92193917150245,
+    "lng": -87.6968897987879
+  },
+  {
+    "name": "Belmont-O'Hare",
+    "mapId": 40060,
+    "lines": "Blue Line",
+    "lat": 41.93813166977896,
+    "lng": -87.71235935057341
+  },
+  {
+    "name": "Montrose-O'Hare",
+    "mapId": 40330,
+    "lines": "Blue Line",
+    "lat": 41.961486633040835,
+    "lng": -87.74361697430824
+  },
+  {
+    "name": "Chicago/Franklin",
+    "mapId": 40710,
+    "lines": "Brown, Purple (Express)",
+    "lat": 41.89677417178117,
+    "lng": -87.63594665706665
+  },
+  {
+    "name": "Western-Ravenswood",
+    "mapId": 40480,
+    "lines": "Brown Line",
+    "lat": 41.96625004821776,
+    "lng": -87.68850260590037
+  },
+  {
+    "name": "Francisco",
+    "mapId": 40870,
+    "lines": "Brown Line",
+    "lat": 41.966146895889715,
+    "lng": -87.70165573251133
+  },
+  {
+    "name": "Addison-Ravenswood",
+    "mapId": 40440,
+    "lines": "Brown Line",
+    "lat": 41.94702865537702,
+    "lng": -87.6747361074464
+  },
+  {
+    "name": "Paulina",
+    "mapId": 40310,
+    "lines": "Brown Line",
+    "lat": 41.943709148530466,
+    "lng": -87.67088394357924
+  },
+  {
+    "name": "Damen-Ravenswood",
+    "mapId": 40090,
+    "lines": "Brown Line",
+    "lat": 41.96641097276443,
+    "lng": -87.67863488433056
+  },
+  {
+    "name": "Montrose-Ravenswood",
+    "mapId": 40500,
+    "lines": "Brown Line",
+    "lat": 41.96175171130978,
+    "lng": -87.67516539063618
+  },
+  {
+    "name": "LaSalle/Van Buren",
+    "mapId": 40160,
+    "lines": "Brown, Orange, Pink, Purple (Express)",
+    "lat": 41.87685533507961,
+    "lng": -87.63173383435944
+  },
+  {
+    "name": "State/Lake",
+    "mapId": 40260,
+    "lines": "Brown, Orange, Pink,  Purple (Express), Green",
+    "lat": 41.885740410818926,
+    "lng": -87.62783518066094
+  },
+  {
+    "name": "Lake/State",
+    "mapId": 40660,
+    "lines": "Red Line",
+    "lat": 41.88480886783525,
+    "lng": -87.62781338044591
+  },
+  {
+    "name": "Harrison",
+    "mapId": 40490,
+    "lines": "Red Line",
+    "lat": 41.874039244054394,
+    "lng": -87.62747911770376
+  },
+  {
+    "name": "Jefferson Park",
+    "mapId": 40280,
+    "lines": "Blue Line",
+    "lat": 41.97063413812226,
+    "lng": -87.76089227927595
+  },
+  {
+    "name": "87th",
+    "mapId": 40430,
+    "lines": "Red Line",
+    "lat": 41.73537121137496,
+    "lng": -87.62475307324942
+  },
+  {
+    "name": "79th",
+    "mapId": 40240,
+    "lines": "Red Line",
+    "lat": 41.75041234272969,
+    "lng": -87.62517835384935
+  },
+  {
+    "name": "47th-Dan Ryan",
+    "mapId": 40230,
+    "lines": "Red Line",
+    "lat": 41.81033813281231,
+    "lng": -87.63102579710096
+  },
+  {
+    "name": "Sox-35th-Dan Ryan",
+    "mapId": 40190,
+    "lines": "Red Line",
+    "lat": 41.831190560189036,
+    "lng": -87.63063629512068
+  },
+  {
+    "name": "Cermak-Chinatown",
+    "mapId": 40000,
+    "lines": "Red Line",
+    "lat": 41.85320579601431,
+    "lng": -87.63096782627767
+  },
+  {
+    "name": "Cottage Grove",
+    "mapId": 40720,
+    "lines": "Green Line",
+    "lat": 41.78030876776892,
+    "lng": -87.6058574174785
+  },
+  {
+    "name": "King Drive",
+    "mapId": 40140,
+    "lines": "Green Line",
+    "lat": 41.780129716720246,
+    "lng": -87.61554588356856
+  },
+  {
+    "name": "Halsted/63rd",
+    "mapId": 40940,
+    "lines": "Green Line",
+    "lat": 41.7790278681209,
+    "lng": -87.644023127218
+  },
+  {
+    "name": "Ashland/63rd",
+    "mapId": 40290,
+    "lines": "Green Line (Englewood)",
+    "lat": 41.778953405637694,
+    "lng": -87.6638448484402
+  },
+  {
+    "name": "47th-South Elevated",
+    "mapId": 40080,
+    "lines": "Green Line",
+    "lat": 41.80920883501687,
+    "lng": -87.61882612858349
+  },
+  {
+    "name": "Roosevelt/Wabash",
+    "mapId": 40410,
+    "lines": "Orange & Green Lines",
+    "lat": 41.86740495963631,
+    "lng": -87.62658988700281
+  },
+  {
+    "name": "O'Hare Airport",
+    "mapId": 40890,
+    "lines": "Blue Line",
+    "lat": 41.97887673887917,
+    "lng": -87.90184840013661
+  },
+  {
+    "name": "Lawrence",
+    "mapId": 40770,
+    "lines": "Red Line",
+    "lat": 41.96913894081545,
+    "lng": -87.65849296173627
+  },
+  {
+    "name": "Belmont-North Main",
+    "mapId": 40320,
+    "lines": "Red, Brown, Purple (Express)",
+    "lat": 41.93975074615253,
+    "lng": -87.65338048799256
+  },
+  {
+    "name": "North/Clybourn",
+    "mapId": 40650,
+    "lines": "Red Line",
+    "lat": 41.910654580560376,
+    "lng": -87.64917726687139
+  },
+  {
+    "name": "Loyola",
+    "mapId": 40300,
+    "lines": "Red Line",
+    "lat": 42.0010733596017,
+    "lng": -87.6610607008597
+  },
+  {
+    "name": "Noyes",
+    "mapId": 40400,
+    "lines": "Purple Line, Evanston Express",
+    "lat": 42.05828247066971,
+    "lng": -87.68333688171246
+  },
+  {
+    "name": "Howard",
+    "mapId": 40900,
+    "lines": "Red, Yellow, Purple, Evanston Express",
+    "lat": 42.01906322017403,
+    "lng": -87.6728924507902
+  },
+  {
+    "name": "Berwyn",
+    "mapId": 40340,
+    "lines": "Red Line",
+    "lat": 41.97798399254404,
+    "lng": -87.65866841969589
+  },
+  {
+    "name": "Kedzie-Lake",
+    "mapId": 40070,
+    "lines": "Green Line (Lake)",
+    "lat": 41.88432109621861,
+    "lng": -87.70615542049478
+  },
+  {
+    "name": "Morse",
+    "mapId": 40100,
+    "lines": "Red Line",
+    "lat": 42.00836181944306,
+    "lng": -87.6659090897442
+  },
+  {
+    "name": "Diversey",
+    "mapId": 40530,
+    "lines": "Brown, Purple (Express)",
+    "lat": 41.93273150100663,
+    "lng": -87.65313085718888
+  },
+  {
+    "name": "35-Bronzeville-IIT",
+    "mapId": 40120,
+    "lines": "Green Line",
+    "lat": 41.83167802166354,
+    "lng": -87.62588147448886
+  },
+  {
+    "name": "Main",
+    "mapId": 40270,
+    "lines": "Purple Line, Evanston Express",
+    "lat": 42.03345571051573,
+    "lng": -87.67953792271051
+  },
+  {
+    "name": "Granville",
+    "mapId": 40760,
+    "lines": "Red Line",
+    "lat": 41.993664261033324,
+    "lng": -87.65920227948938
+  },
+  {
+    "name": "Thorndale",
+    "mapId": 40880,
+    "lines": "Red Line",
+    "lat": 41.990259494019185,
+    "lng": -87.6590758588342
+  },
+  {
+    "name": "Wellington",
+    "mapId": 40210,
+    "lines": "Brown, Purple (Express)",
+    "lat": 41.936032602681166,
+    "lng": -87.65326645004653
+  },
+  {
+    "name": "Fullerton",
+    "mapId": 40220,
+    "lines": "Red, Brown, Purple (Express)",
+    "lat": 41.9250513685894,
+    "lng": -87.6528658377562
+  },
+  {
+    "name": "Dempster-Skokie",
+    "mapId": 40140,
+    "lines": "Yellow Line",
+    "lat": 42.03895069338699,
+    "lng": -87.75191862595247
+  },
+  {
+    "name": "Davis",
+    "mapId": 40050,
+    "lines": "Purple Line, Evanston Express",
+    "lat": 42.04771009459835,
+    "lng": -87.68354292586837
+  },
+  {
+    "name": "Dempster",
+    "mapId": 40690,
+    "lines": "Purple Line, Evanston Express",
+    "lat": 42.04165464471751,
+    "lng": -87.68160198666094
+  },
+  {
+    "name": "Washington/Dearborn",
+    "mapId": 40370,
+    "lines": "Blue Line",
+    "lat": 41.88316442656523,
+    "lng": -87.6294400596467
+  },
+  {
+    "name": "43rd",
+    "mapId": 40270,
+    "lines": "Green Line",
+    "lat": 41.81646322287744,
+    "lng": -87.61903578127783
+  },
+  {
+    "name": "Indiana",
+    "mapId": 40300,
+    "lines": "Green Line",
+    "lat": 41.8218151964997,
+    "lng": -87.62146281101369
+  },
+  {
+    "name": "Irving Park-O'Hare",
+    "mapId": 40550,
+    "lines": "Blue Line",
+    "lat": 41.95294026172351,
+    "lng": -87.72917726558204
+  },
+  {
+    "name": "Cicero-Lake",
+    "mapId": 40480,
+    "lines": "Green Line (Lake)",
+    "lat": 41.88651935351997,
+    "lng": -87.74469840019538
+  },
+  {
+    "name": "Monroe/Dearborn",
+    "mapId": 40790,
+    "lines": "Blue Line",
+    "lat": 41.88070346119076,
+    "lng": -87.62937770045221
+  },
+  {
+    "name": "Quincy/Wells",
+    "mapId": 40040,
+    "lines": "Brown, Orange, Pink, Purple (Express)",
+    "lat": 41.87872328348997,
+    "lng": -87.63373997596631
+  },
+  {
+    "name": "Argyle",
+    "mapId": 40200,
+    "lines": "Red Line",
+    "lat": 41.97345332287952,
+    "lng": -87.65852996352429
+  },
+  {
+    "name": "Kimball",
+    "mapId": 40290,
+    "lines": "Brown Line",
+    "lat": 41.967928151523594,
+    "lng": -87.71314203532829
+  },
+  {
+    "name": "Kedzie-Ravenswood",
+    "mapId": 40180,
+    "lines": "Brown Line",
+    "lat": 41.96609260703787,
+    "lng": -87.70884379252877
+  },
+  {
+    "name": "Irving Park-Ravenswood",
+    "mapId": 40460,
+    "lines": "Brown Line",
+    "lat": 41.95452313953493,
+    "lng": -87.67495574333226
+  },
+  {
+    "name": "Racine",
+    "mapId": 40470,
+    "lines": "Blue Line",
+    "lat": 41.87588563477906,
+    "lng": -87.65945550927005
+  },
+  {
+    "name": "Illinois Medical District",
+    "mapId": 40810,
+    "lines": "Blue Line",
+    "lat": 41.875635428768774,
+    "lng": -87.67394587971816
+  },
+  {
+    "name": "Western-Congress",
+    "mapId": 40220,
+    "lines": "Blue Line (Congress)",
+    "lat": 41.87552957397782,
+    "lng": -87.68843451104553
+  },
+  {
+    "name": "Austin-Congress",
+    "mapId": 40010,
+    "lines": "Blue Line",
+    "lat": 41.87088639373906,
+    "lng": -87.77678526925513
+  },
+  {
+    "name": "Cicero-Congress",
+    "mapId": 40970,
+    "lines": "Blue Line (Congress)",
+    "lat": 41.871608050522994,
+    "lng": -87.74517217791391
+  },
+  {
+    "name": "Library",
+    "mapId": 40850,
+    "lines": "Brown, Orange, Pink, Purple (Express)",
+    "lat": 41.876908340423775,
+    "lng": -87.62820914456076
+  },
+  {
+    "name": "Logan Square",
+    "mapId": 40020,
+    "lines": "Blue Line",
+    "lat": 41.92972804225144,
+    "lng": -87.7085413860205
+  },
+  {
+    "name": "69th",
+    "mapId": 40990,
+    "lines": "Red Line",
+    "lat": 41.768367865867056,
+    "lng": -87.62580935004172
+  },
+  {
+    "name": "51st",
+    "mapId": 40130,
+    "lines": "Green Line",
+    "lat": 41.80209158434365,
+    "lng": -87.61850159987594
+  },
+  {
+    "name": "Midway Airport",
+    "mapId": 40930,
+    "lines": "Orange Line",
+    "lat": 41.7866135510346,
+    "lng": -87.73795637168769
+  },
+  {
+    "name": "Kedzie-Midway",
+    "mapId": 40150,
+    "lines": "Orange Line",
+    "lat": 41.804348408754976,
+    "lng": -87.70432066571871
+  },
+  {
+    "name": "Ashland-Midway",
+    "mapId": 40060,
+    "lines": "Orange Line",
+    "lat": 41.839355878793334,
+    "lng": -87.66531166332861
+  },
+  {
+    "name": "Halsted-Midway",
+    "mapId": 40130,
+    "lines": "Orange Line",
+    "lat": 41.846901440874284,
+    "lng": -87.64813110426746
+  },
+  {
+    "name": "18th",
+    "mapId": 40830,
+    "lines": "Pink",
+    "lat": 41.85790770843142,
+    "lng": -87.6691601248801
+  },
+  {
+    "name": "Damen",
+    "mapId": 40210,
+    "lines": "Pink",
+    "lat": 41.854514862029305,
+    "lng": -87.67597409605341
+  },
+  {
+    "name": "Western-Douglas",
+    "mapId": 40740,
+    "lines": "Pink",
+    "lat": 41.854396837500744,
+    "lng": -87.68517922105977
+  },
+  {
+    "name": "Central Park",
+    "mapId": 40780,
+    "lines": "Pink",
+    "lat": 41.85399195494557,
+    "lng": -87.71488026411758
+  },
+  {
+    "name": "Pulaski-Douglas",
+    "mapId": 40150,
+    "lines": "Pink",
+    "lat": 41.85385683122457,
+    "lng": -87.72432672502005
+  },
+  {
+    "name": "Kostner",
+    "mapId": 40600,
+    "lines": "Pink",
+    "lat": 41.85375068701122,
+    "lng": -87.73326365861335
+  },
+  {
+    "name": "Cicero-Douglas",
+    "mapId": 40420,
+    "lines": "Pink",
+    "lat": 41.851924714963396,
+    "lng": -87.74534200985961
+  },
+  {
+    "name": "Morgan",
+    "mapId": 40510,
+    "lines": "Green (Lake), Pink",
+    "lat": 41.885576788726354,
+    "lng": -87.65212799206752
+  },
+  {
+    "name": "Oakton-Skokie",
+    "mapId": 40680,
+    "lines": "Yellow Line",
+    "lat": 42.02624389455923,
+    "lng": -87.74722101369109
+  },
+  {
+    "name": "Cermak-McCormick Place",
+    "mapId": 40690,
+    "lines": "Green Line",
+    "lat": 41.85311508341227,
+    "lng": -87.62640238492894
+  },
+  {
+    "name": "Washington/Wabash",
+    "mapId": 40700,
+    "lines": "Brown, Orange, Pink,  Purple (Express), Green",
+    "lat": 41.88322001293653,
+    "lng": -87.62618878473234
+  },
+  {
+    "name": "Chicago/State",
+    "mapId": 40450,
+    "lines": "Red Line",
+    "lat": 41.89667121282868,
+    "lng": -87.62817635256233
+  },
+  {
+    "name": "Grand/State",
+    "mapId": 40330,
+    "lines": "Red Line",
+    "lat": 41.89166520138373,
+    "lng": -87.62802125739587
+  },
+  {
+    "name": "Sedgwick",
+    "mapId": 40800,
+    "lines": "Brown, Purple (Express)",
+    "lat": 41.91040918029724,
+    "lng": -87.63930216454519
+  },
+  {
+    "name": "Rockwell",
+    "mapId": 40010,
+    "lines": "Brown Line",
+    "lat": 41.96620994947778,
+    "lng": -87.69411112481461
+  },
+  {
+    "name": "Pulaski-Congress",
+    "mapId": 40920,
+    "lines": "Blue Line (Congress)",
+    "lat": 41.87388872444464,
+    "lng": -87.725624930077
+  },
+  {
+    "name": "Oak Park-Congress",
+    "mapId": 40180,
+    "lines": "Blue Line",
+    "lat": 41.8721079742148,
+    "lng": -87.79160214979832
+  },
+  {
+    "name": "Harlem-Congress",
+    "mapId": 40980,
+    "lines": "Blue Line (Congress)",
+    "lat": 41.87349005190214,
+    "lng": -87.80696087265021
+  },
+  {
+    "name": "Pulaski-Midway",
+    "mapId": 40960,
+    "lines": "Orange Line",
+    "lat": 41.79988782039872,
+    "lng": -87.72444964277845
+  },
+  {
+    "name": "Kedzie-Homan",
+    "mapId": 40250,
+    "lines": "Blue Line (Congress)",
+    "lat": 41.87442550900997,
+    "lng": -87.70597829539031
+  },
+  {
+    "name": "Forest Park",
+    "mapId": 40390,
+    "lines": "Blue Line",
+    "lat": 41.87425731129019,
+    "lng": -87.81731777906768
+  },
+  {
+    "name": "Monroe/State",
+    "mapId": 40090,
+    "lines": "Red Line",
+    "lat": 41.880744558792216,
+    "lng": -87.62769645951258
+  },
+  {
+    "name": "Harlem-O'Hare",
+    "mapId": 40750,
+    "lines": "Blue Line (O'Hare)",
+    "lat": 41.982323370406654,
+    "lng": -87.80889493503287
+  },
+  {
+    "name": "Ridgeland",
+    "mapId": 40610,
+    "lines": "Green Line (Lake)",
+    "lat": 41.88715939826551,
+    "lng": -87.78366103293801
+  },
+  {
+    "name": "Laramie",
+    "mapId": 40700,
+    "lines": "Green Line (Lake)",
+    "lat": 41.887163226543876,
+    "lng": -87.75498649428108
+  },
+  {
+    "name": "California-Lake",
+    "mapId": 40360,
+    "lines": "Green Line (Lake)",
+    "lat": 41.88421953162615,
+    "lng": -87.69623421620008
+  },
+  {
+    "name": "Western/Milwaukee",
+    "mapId": 40670,
+    "lines": "Blue Line (O'Hare)",
+    "lat": 41.916157429131374,
+    "lng": -87.6873643813982
+  },
+  {
+    "name": "Addison-O'Hare",
+    "mapId": 40240,
+    "lines": "Blue Line",
+    "lat": 41.9473601024952,
+    "lng": -87.71909930215281
+  },
+  {
+    "name": "Garfield-South Elevated",
+    "mapId": 40510,
+    "lines": "Green Line",
+    "lat": 41.79517665377113,
+    "lng": -87.61832410779981
+  },
+  {
+    "name": "Western-Midway",
+    "mapId": 40310,
+    "lines": "Orange Line",
+    "lat": 41.804683560054855,
+    "lng": -87.6840649867607
+  },
+  {
+    "name": "35th/Archer",
+    "mapId": 40120,
+    "lines": "Orange Line",
+    "lat": 41.82956008804762,
+    "lng": -87.68058736862578
+  },
+  {
+    "name": "Polk",
+    "mapId": 40030,
+    "lines": "Pink",
+    "lat": 41.871563004328266,
+    "lng": -87.66954322799872
+  },
+  {
+    "name": "California-Douglas",
+    "mapId": 40440,
+    "lines": "Pink",
+    "lat": 41.85427963032736,
+    "lng": -87.69482291545437
+  },
+  {
+    "name": "Kedzie-Douglas",
+    "mapId": 40040,
+    "lines": "Pink",
+    "lat": 41.854130586664574,
+    "lng": -87.70542795670059
+  },
+  {
+    "name": "54th/Cermak",
+    "mapId": 40580,
+    "lines": "Pink",
+    "lat": 41.851773309963825,
+    "lng": -87.756692014772
+  },
+  {
+    "name": "UIC-Halsted",
+    "mapId": 40350,
+    "lines": "Blue Line",
+    "lat": 41.8755162091606,
+    "lng": -87.64964223079026
+  },
+  {
+    "name": "Clinton-Congress",
+    "mapId": 40430,
+    "lines": "Blue Line",
+    "lat": 41.875538904999026,
+    "lng": -87.64098421671696
+  },
+  {
+    "name": "LaSalle",
+    "mapId": 40340,
+    "lines": "Blue Line",
+    "lat": 41.87556762595072,
+    "lng": -87.63172207547264
+  },
+  {
+    "name": "Wilson",
+    "mapId": 40540,
+    "lines": "Purple, Red Line",
+    "lat": 41.96425415994733,
+    "lng": -87.65773404557505
+  },
+  {
+    "name": "Armitage",
+    "mapId": 40660,
+    "lines": "Brown, Purple (Express)",
+    "lat": 41.91821656808861,
+    "lng": -87.65264430600404
+  },
+  {
+    "name": "Central-Lake",
+    "mapId": 40280,
+    "lines": "Green Line (Lake)",
+    "lat": 41.887389014441396,
+    "lng": -87.76564950550599
+  },
+  {
+    "name": "Pulaski-Lake",
+    "mapId": 40030,
+    "lines": "Green Line (Lake)",
+    "lat": 41.88541197969969,
+    "lng": -87.72540376831816
+  },
+  {
+    "name": "Central-Evanston",
+    "mapId": 40250,
+    "lines": "Purple Line, Evanston Express",
+    "lat": 42.06398654414921,
+    "lng": -87.68561725654831
+  },
+  {
+    "name": "Foster",
+    "mapId": 40520,
+    "lines": "Purple Line, Evanston Express",
+    "lat": 42.05416022489171,
+    "lng": -87.68356032638904
+  },
+  {
+    "name": "Conservatory-Central Park",
+    "mapId": 40670,
+    "lines": "Green Line (Lake)",
+    "lat": 41.88490437974895,
+    "lng": -87.71652283291752
+  },
+  {
+    "name": "Sheridan",
+    "mapId": 40080,
+    "lines": "Red Line",
+    "lat": 41.95377494743192,
+    "lng": -87.65492939219291
+  },
+  {
+    "name": "Addison-North Main",
+    "mapId": 40420,
+    "lines": "Red Line",
+    "lat": 41.94742799746875,
+    "lng": -87.65362593077104
+  },
+  {
+    "name": "Clark/Lake",
+    "mapId": 40380,
+    "lines": "Brown, Orange, Pink, Purple (Express), Green, Blue",
+    "lat": 41.88573698625939,
+    "lng": -87.63088601833961
+  },
+  {
+    "name": "Jackson/Dearborn",
+    "mapId": 40070,
+    "lines": "Blue Line",
+    "lat": 41.87818251886981,
+    "lng": -87.62929566463735
+  },
+  {
+    "name": "Clark/Division",
+    "mapId": 40630,
+    "lines": "Red Line",
+    "lat": 41.90392031283341,
+    "lng": -87.63141229300709
+  },
+  {
+    "name": "Linden",
+    "mapId": 40050,
+    "lines": "Purple Line, Evanston Express",
+    "lat": 42.0731527622841,
+    "lng": -87.69072951855928
+  },
+  {
+    "name": "South Boulevard",
+    "mapId": 40840,
+    "lines": "Purple Line, Evanston Express",
+    "lat": 42.02761184862187,
+    "lng": -87.67832941601363
+  },
+  {
+    "name": "Jarvis",
+    "mapId": 40190,
+    "lines": "Red Line",
+    "lat": 42.01587618094787,
+    "lng": -87.6690921120182
+  },
+  {
+    "name": "Bryn Mawr",
+    "mapId": 40380,
+    "lines": "Red Line",
+    "lat": 41.983504225254826,
+    "lng": -87.65884028505945
+  },
+  {
+    "name": "Merchandise Mart",
+    "mapId": 40460,
+    "lines": "Brown, Purple (Express)",
+    "lat": 41.88896793381599,
+    "lng": -87.63397336028807
+  },
+  {
+    "name": "Washington/Wells",
+    "mapId": 40730,
+    "lines": "Brown, Orange, Pink, Purple (Express)",
+    "lat": 41.88269501849896,
+    "lng": -87.63385352993139
+  },
+  {
+    "name": "Southport",
+    "mapId": 40360,
+    "lines": "Brown Line",
+    "lat": 41.94381225617526,
+    "lng": -87.66360955994172
+  },
+  {
+    "name": "Adams/Wabash",
+    "mapId": 40680,
+    "lines": "Brown, Orange, Pink,  Purple (Express), Green",
+    "lat": 41.879510219372655,
+    "lng": -87.62609789982032
+  },
+  {
+    "name": "Jackson/State",
+    "mapId": 40560,
+    "lines": "Red Line",
+    "lat": 41.87815275695708,
+    "lng": -87.62759609756428
+  },
+  {
+    "name": "Rosemont",
+    "mapId": 40820,
+    "lines": "Blue Line",
+    "lat": 41.98350728784708,
+    "lng": -87.8593877016713
+  },
+  {
+    "name": "Harlem-Lake",
+    "mapId": 40020,
+    "lines": "Green Line (Lake)",
+    "lat": 41.88684830347631,
+    "lng": -87.80317598719213
+  },
+  {
+    "name": "Division/Milwaukee",
+    "mapId": 40320,
+    "lines": "Blue Line",
+    "lat": 41.90335508549131,
+    "lng": -87.66649606690225
+  },
+  {
+    "name": "95th/Dan Ryan",
+    "mapId": 40450,
+    "lines": "Red Line",
+    "lat": 41.722375984242476,
+    "lng": -87.62441474538349
+  },
+  {
+    "name": "63rd-Dan Ryan",
+    "mapId": 40910,
+    "lines": "Red Line",
+    "lat": 41.78053433456898,
+    "lng": -87.63100044907034
+  },
+  {
+    "name": "Garfield-Dan Ryan",
+    "mapId": 40170,
+    "lines": "Red Line",
+    "lat": 41.795418262115,
+    "lng": -87.63116917003116
+  },
+  {
+    "name": "Roosevelt/State",
+    "mapId": 40400,
+    "lines": "Red Line",
+    "lat": 41.86736766601225,
+    "lng": -87.62740238294732
+  }
+]

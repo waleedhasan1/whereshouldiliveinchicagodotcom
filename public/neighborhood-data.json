@@ -1,0 +1,2511 @@
+{
+  "generatedAt": "2026-03-25T21:50:49.659Z",
+  "sources": {
+    "rent": "Estimated averages by community area",
+    "crime": "Chicago Data Portal - Crimes dataset (2025)",
+    "demographics": "Chicago Data Portal - ACS 5-Year Community Area Estimates",
+    "transit": "CTA station locations (point-in-polygon)",
+    "bus": "CHN Ghost Buses project (github.com/chihacknight/chn-ghost-buses)"
+  },
+  "neighborhoods": {
+    "ROGERS PARK": {
+      "areaNumber": 1,
+      "rent": {
+        "avg": 1150,
+        "low": 850,
+        "high": 1500
+      },
+      "crime": {
+        "total": 3744,
+        "per100k": 7042,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 53169,
+        "estimatedMedianIncome": 90513,
+        "households": 9763
+      },
+      "transit": {
+        "ctaStations": 4,
+        "ctaLines": [
+          "Red",
+          "Yellow",
+          "Purple"
+        ]
+      },
+      "bus": {
+        "busReliability": 0.94,
+        "busRouteCount": 1,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "155"
+        ]
+      }
+    },
+    "WEST RIDGE": {
+      "areaNumber": 2,
+      "rent": {
+        "avg": 1100,
+        "low": 800,
+        "high": 1450
+      },
+      "crime": {
+        "total": 3257,
+        "per100k": 4111,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 79220,
+        "estimatedMedianIncome": 89917,
+        "households": 18028
+      },
+      "transit": {
+        "ctaStations": 0,
+        "ctaLines": []
+      },
+      "bus": {
+        "busReliability": 0.945,
+        "busRouteCount": 3,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "49B",
+          "84",
+          "93"
+        ]
+      }
+    },
+    "UPTOWN": {
+      "areaNumber": 3,
+      "rent": {
+        "avg": 1250,
+        "low": 900,
+        "high": 1700
+      },
+      "crime": {
+        "total": 4151,
+        "per100k": 7881,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 52674,
+        "estimatedMedianIncome": 103221,
+        "households": 9158
+      },
+      "transit": {
+        "ctaStations": 3,
+        "ctaLines": [
+          "Red",
+          "Purple"
+        ]
+      },
+      "bus": {
+        "busReliability": 0.94,
+        "busRouteCount": 3,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "147",
+          "78",
+          "81"
+        ]
+      }
+    },
+    "LINCOLN SQUARE": {
+      "areaNumber": 4,
+      "rent": {
+        "avg": 1350,
+        "low": 950,
+        "high": 1800
+      },
+      "crime": {
+        "total": 1895,
+        "per100k": 4493,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 42180,
+        "estimatedMedianIncome": 112716,
+        "households": 9343
+      },
+      "transit": {
+        "ctaStations": 4,
+        "ctaLines": [
+          "Brown"
+        ]
+      },
+      "bus": {
+        "busReliability": 0.948,
+        "busRouteCount": 2,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "49B",
+          "92"
+        ]
+      }
+    },
+    "NORTH CENTER": {
+      "areaNumber": 5,
+      "rent": {
+        "avg": 1600,
+        "low": 1100,
+        "high": 2200
+      },
+      "crime": {
+        "total": 1240,
+        "per100k": 3465,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 35782,
+        "estimatedMedianIncome": 140666,
+        "households": 8598
+      },
+      "transit": {
+        "ctaStations": 2,
+        "ctaLines": [
+          "Brown"
+        ]
+      },
+      "bus": {
+        "busReliability": 0.976,
+        "busRouteCount": 1,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "80"
+        ]
+      }
+    },
+    "LAKE VIEW": {
+      "areaNumber": 6,
+      "rent": {
+        "avg": 1750,
+        "low": 1200,
+        "high": 2500
+      },
+      "crime": {
+        "total": 5998,
+        "per100k": 6617,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 90652,
+        "estimatedMedianIncome": 136640,
+        "households": 14856
+      },
+      "transit": {
+        "ctaStations": 7,
+        "ctaLines": [
+          "Brown",
+          "Red",
+          "Purple"
+        ]
+      },
+      "bus": {
+        "busReliability": 0.927,
+        "busRouteCount": 4,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "136",
+          "152",
+          "22",
+          "36"
+        ]
+      }
+    },
+    "LINCOLN PARK": {
+      "areaNumber": 7,
+      "rent": {
+        "avg": 1900,
+        "low": 1300,
+        "high": 2800
+      },
+      "crime": {
+        "total": 3896,
+        "per100k": 6277,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 62067,
+        "estimatedMedianIncome": 144259,
+        "households": 11152
+      },
+      "transit": {
+        "ctaStations": 2,
+        "ctaLines": [
+          "Red",
+          "Brown",
+          "Purple"
+        ]
+      },
+      "bus": {
+        "busReliability": 0.932,
+        "busRouteCount": 11,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "134",
+          "135",
+          "136",
+          "143",
+          "146",
+          "148",
+          "151",
+          "156",
+          "36",
+          "72",
+          "73"
+        ]
+      }
+    },
+    "NEAR NORTH SIDE": {
+      "areaNumber": 8,
+      "rent": {
+        "avg": 2200,
+        "low": 1500,
+        "high": 3500
+      },
+      "crime": {
+        "total": 11119,
+        "per100k": 12134,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 91635,
+        "estimatedMedianIncome": 138038,
+        "households": 16007
+      },
+      "transit": {
+        "ctaStations": 7,
+        "ctaLines": [
+          "Brown",
+          "Purple",
+          "Red"
+        ]
+      },
+      "bus": {
+        "busReliability": 0.904,
+        "busRouteCount": 3,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "134",
+          "146",
+          "37"
+        ]
+      }
+    },
+    "EDISON PARK": {
+      "areaNumber": 9,
+      "rent": {
+        "avg": 1200,
+        "low": 900,
+        "high": 1550
+      },
+      "crime": {
+        "total": 277,
+        "per100k": 2430,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 11398,
+        "estimatedMedianIncome": 130427,
+        "households": 2938
+      },
+      "transit": {
+        "ctaStations": 0,
+        "ctaLines": []
+      },
+      "bus": {
+        "busReliability": 0.962,
+        "busRouteCount": 1,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "68"
+        ]
+      }
+    },
+    "NORWOOD PARK": {
+      "areaNumber": 10,
+      "rent": {
+        "avg": 1150,
+        "low": 850,
+        "high": 1500
+      },
+      "crime": {
+        "total": 1121,
+        "per100k": 2797,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 40074,
+        "estimatedMedianIncome": 115078,
+        "households": 10605
+      },
+      "transit": {
+        "ctaStations": 1,
+        "ctaLines": [
+          "Blue Line (O'Hare)"
+        ]
+      },
+      "bus": {
+        "busReliability": 0.973,
+        "busRouteCount": 1,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "88"
+        ]
+      }
+    },
+    "JEFFERSON PARK": {
+      "areaNumber": 11,
+      "rent": {
+        "avg": 1100,
+        "low": 800,
+        "high": 1400
+      },
+      "crime": {
+        "total": 882,
+        "per100k": 3268,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 26991,
+        "estimatedMedianIncome": 109355,
+        "households": 6795
+      },
+      "transit": {
+        "ctaStations": 1,
+        "ctaLines": [
+          "Blue"
+        ]
+      },
+      "bus": {
+        "busReliability": 0.974,
+        "busRouteCount": 3,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "81W",
+          "85",
+          "92"
+        ]
+      }
+    },
+    "FOREST GLEN": {
+      "areaNumber": 12,
+      "rent": {
+        "avg": 1300,
+        "low": 950,
+        "high": 1700
+      },
+      "crime": {
+        "total": 409,
+        "per100k": 2070,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 19763,
+        "estimatedMedianIncome": 131737,
+        "households": 5246
+      },
+      "transit": {
+        "ctaStations": 0,
+        "ctaLines": []
+      },
+      "bus": {
+        "busReliability": 0.976,
+        "busRouteCount": 1,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "85A"
+        ]
+      }
+    },
+    "NORTH PARK": {
+      "areaNumber": 13,
+      "rent": {
+        "avg": 1200,
+        "low": 850,
+        "high": 1550
+      },
+      "crime": {
+        "total": 990,
+        "per100k": 5140,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 19259,
+        "estimatedMedianIncome": 95258,
+        "households": 4304
+      },
+      "transit": {
+        "ctaStations": 0,
+        "ctaLines": []
+      },
+      "bus": {
+        "busReliability": 0.961,
+        "busRouteCount": 1,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "11"
+        ]
+      }
+    },
+    "ALBANY PARK": {
+      "areaNumber": 14,
+      "rent": {
+        "avg": 1100,
+        "low": 800,
+        "high": 1450
+      },
+      "crime": {
+        "total": 2342,
+        "per100k": 4897,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 47830,
+        "estimatedMedianIncome": 92131,
+        "households": 10671
+      },
+      "transit": {
+        "ctaStations": 3,
+        "ctaLines": [
+          "Brown"
+        ]
+      },
+      "bus": {
+        "busReliability": 0.941,
+        "busRouteCount": 1,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "78"
+        ]
+      }
+    },
+    "PORTAGE PARK": {
+      "areaNumber": 15,
+      "rent": {
+        "avg": 1050,
+        "low": 750,
+        "high": 1400
+      },
+      "crime": {
+        "total": 3037,
+        "per100k": 4730,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 64201,
+        "estimatedMedianIncome": 103833,
+        "households": 15314
+      },
+      "transit": {
+        "ctaStations": 0,
+        "ctaLines": []
+      },
+      "bus": {
+        "busReliability": 0.958,
+        "busRouteCount": 2,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "152",
+          "86"
+        ]
+      }
+    },
+    "IRVING PARK": {
+      "areaNumber": 16,
+      "rent": {
+        "avg": 1150,
+        "low": 800,
+        "high": 1500
+      },
+      "crime": {
+        "total": 2301,
+        "per100k": 4298,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 53535,
+        "estimatedMedianIncome": 104695,
+        "households": 12614
+      },
+      "transit": {
+        "ctaStations": 3,
+        "ctaLines": [
+          "Blue"
+        ]
+      },
+      "bus": {
+        "busReliability": 0.959,
+        "busRouteCount": 1,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "82"
+        ]
+      }
+    },
+    "DUNNING": {
+      "areaNumber": 17,
+      "rent": {
+        "avg": 1050,
+        "low": 750,
+        "high": 1350
+      },
+      "crime": {
+        "total": 1417,
+        "per100k": 3330,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 42548,
+        "estimatedMedianIncome": 105904,
+        "households": 11080
+      },
+      "transit": {
+        "ctaStations": 0,
+        "ctaLines": []
+      },
+      "bus": {
+        "busReliability": 0.969,
+        "busRouteCount": 2,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "77",
+          "80"
+        ]
+      }
+    },
+    "MONTCLARE": {
+      "areaNumber": 18,
+      "rent": {
+        "avg": 1000,
+        "low": 750,
+        "high": 1300
+      },
+      "crime": {
+        "total": 666,
+        "per100k": 4842,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 13755,
+        "estimatedMedianIncome": 97944,
+        "households": 3202
+      },
+      "transit": {
+        "ctaStations": 0,
+        "ctaLines": []
+      },
+      "bus": {
+        "busReliability": null,
+        "busRouteCount": 0,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": []
+      }
+    },
+    "BELMONT CRAGIN": {
+      "areaNumber": 19,
+      "rent": {
+        "avg": 950,
+        "low": 700,
+        "high": 1250
+      },
+      "crime": {
+        "total": 3927,
+        "per100k": 5308,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 73988,
+        "estimatedMedianIncome": 82724,
+        "households": 16346
+      },
+      "transit": {
+        "ctaStations": 0,
+        "ctaLines": []
+      },
+      "bus": {
+        "busReliability": 0.96,
+        "busRouteCount": 1,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "86"
+        ]
+      }
+    },
+    "HERMOSA": {
+      "areaNumber": 20,
+      "rent": {
+        "avg": 900,
+        "low": 650,
+        "high": 1200
+      },
+      "crime": {
+        "total": 1176,
+        "per100k": 5069,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 23200,
+        "estimatedMedianIncome": 82547,
+        "households": 5214
+      },
+      "transit": {
+        "ctaStations": 0,
+        "ctaLines": []
+      },
+      "bus": {
+        "busReliability": 0.854,
+        "busRouteCount": 1,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "53"
+        ]
+      }
+    },
+    "AVONDALE": {
+      "areaNumber": 21,
+      "rent": {
+        "avg": 1300,
+        "low": 900,
+        "high": 1750
+      },
+      "crime": {
+        "total": 2184,
+        "per100k": 6008,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 36350,
+        "estimatedMedianIncome": 102150,
+        "households": 7771
+      },
+      "transit": {
+        "ctaStations": 1,
+        "ctaLines": [
+          "Blue"
+        ]
+      },
+      "bus": {
+        "busReliability": 0.959,
+        "busRouteCount": 2,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "76",
+          "77"
+        ]
+      }
+    },
+    "LOGAN SQUARE": {
+      "areaNumber": 22,
+      "rent": {
+        "avg": 1450,
+        "low": 1000,
+        "high": 2000
+      },
+      "crime": {
+        "total": 4512,
+        "per100k": 6323,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 71354,
+        "estimatedMedianIncome": 113460,
+        "households": 13825
+      },
+      "transit": {
+        "ctaStations": 3,
+        "ctaLines": [
+          "Blue Line (O'Hare)",
+          "Blue"
+        ]
+      },
+      "bus": {
+        "busReliability": 0.957,
+        "busRouteCount": 4,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "50",
+          "56",
+          "73",
+          "76"
+        ]
+      }
+    },
+    "HUMBOLDT PARK": {
+      "areaNumber": 23,
+      "rent": {
+        "avg": 1050,
+        "low": 700,
+        "high": 1450
+      },
+      "crime": {
+        "total": 6147,
+        "per100k": 11173,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 55015,
+        "estimatedMedianIncome": 70429,
+        "households": 11956
+      },
+      "transit": {
+        "ctaStations": 0,
+        "ctaLines": []
+      },
+      "bus": {
+        "busReliability": 0.902,
+        "busRouteCount": 3,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "53",
+          "65",
+          "82"
+        ]
+      }
+    },
+    "WEST TOWN": {
+      "areaNumber": 24,
+      "rent": {
+        "avg": 1650,
+        "low": 1100,
+        "high": 2400
+      },
+      "crime": {
+        "total": 6859,
+        "per100k": 7934,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 86453,
+        "estimatedMedianIncome": 127983,
+        "households": 16531
+      },
+      "transit": {
+        "ctaStations": 4,
+        "ctaLines": [
+          "Blue Line (O'Hare)",
+          "Blue"
+        ]
+      },
+      "bus": {
+        "busReliability": 0.921,
+        "busRouteCount": 5,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "50",
+          "56",
+          "66",
+          "70",
+          "72"
+        ]
+      }
+    },
+    "AUSTIN": {
+      "areaNumber": 25,
+      "rent": {
+        "avg": 850,
+        "low": 600,
+        "high": 1150
+      },
+      "crime": {
+        "total": 11771,
+        "per100k": 11738,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 100278,
+        "estimatedMedianIncome": 68676,
+        "households": 21962
+      },
+      "transit": {
+        "ctaStations": 5,
+        "ctaLines": [
+          "Green Line (Lake)",
+          "Blue Line (Congress)"
+        ]
+      },
+      "bus": {
+        "busReliability": 0.937,
+        "busRouteCount": 6,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "20",
+          "54",
+          "57",
+          "65",
+          "90",
+          "91"
+        ]
+      }
+    },
+    "WEST GARFIELD PARK": {
+      "areaNumber": 26,
+      "rent": {
+        "avg": 800,
+        "low": 550,
+        "high": 1100
+      },
+      "crime": {
+        "total": 3307,
+        "per100k": 20232,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 16345,
+        "estimatedMedianIncome": 55742,
+        "households": 3456
+      },
+      "transit": {
+        "ctaStations": 2,
+        "ctaLines": [
+          "Blue Line (Congress)",
+          "Green Line (Lake)"
+        ]
+      },
+      "bus": {
+        "busReliability": null,
+        "busRouteCount": 0,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": []
+      }
+    },
+    "EAST GARFIELD PARK": {
+      "areaNumber": 27,
+      "rent": {
+        "avg": 900,
+        "low": 600,
+        "high": 1250
+      },
+      "crime": {
+        "total": 3770,
+        "per100k": 18988,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 19855,
+        "estimatedMedianIncome": 57077,
+        "households": 4195
+      },
+      "transit": {
+        "ctaStations": 4,
+        "ctaLines": [
+          "Green Line (Lake)",
+          "Blue Line (Congress)"
+        ]
+      },
+      "bus": {
+        "busReliability": 0.956,
+        "busRouteCount": 3,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "126",
+          "7",
+          "94"
+        ]
+      }
+    },
+    "NEAR WEST SIDE": {
+      "areaNumber": 28,
+      "rent": {
+        "avg": 1800,
+        "low": 1200,
+        "high": 2600
+      },
+      "crime": {
+        "total": 10299,
+        "per100k": 15755,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 65370,
+        "estimatedMedianIncome": 112999,
+        "households": 11948
+      },
+      "transit": {
+        "ctaStations": 9,
+        "ctaLines": [
+          "Green (Lake)",
+          "Pink",
+          "Blue",
+          "Blue Line (Congress)"
+        ]
+      },
+      "bus": {
+        "busReliability": 0.942,
+        "busRouteCount": 8,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "12",
+          "126",
+          "157",
+          "18",
+          "20",
+          "49",
+          "7",
+          "X9"
+        ]
+      }
+    },
+    "NORTH LAWNDALE": {
+      "areaNumber": 29,
+      "rent": {
+        "avg": 850,
+        "low": 600,
+        "high": 1150
+      },
+      "crime": {
+        "total": 6406,
+        "per100k": 21104,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 30355,
+        "estimatedMedianIncome": 61462,
+        "households": 6548
+      },
+      "transit": {
+        "ctaStations": 4,
+        "ctaLines": [
+          "Pink"
+        ]
+      },
+      "bus": {
+        "busReliability": null,
+        "busRouteCount": 0,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": []
+      }
+    },
+    "SOUTH LAWNDALE": {
+      "areaNumber": 30,
+      "rent": {
+        "avg": 900,
+        "low": 650,
+        "high": 1200
+      },
+      "crime": {
+        "total": 3723,
+        "per100k": 5353,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 69554,
+        "estimatedMedianIncome": 63613,
+        "households": 13511
+      },
+      "transit": {
+        "ctaStations": 1,
+        "ctaLines": [
+          "Pink"
+        ]
+      },
+      "bus": {
+        "busReliability": 0.952,
+        "busRouteCount": 1,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "21"
+        ]
+      }
+    },
+    "LOWER WEST SIDE": {
+      "areaNumber": 31,
+      "rent": {
+        "avg": 1050,
+        "low": 750,
+        "high": 1400
+      },
+      "crime": {
+        "total": 2666,
+        "per100k": 7801,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 34177,
+        "estimatedMedianIncome": 85774,
+        "households": 7215
+      },
+      "transit": {
+        "ctaStations": 4,
+        "ctaLines": [
+          "Orange",
+          "Pink"
+        ]
+      },
+      "bus": {
+        "busReliability": 0.922,
+        "busRouteCount": 4,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "18",
+          "60",
+          "9",
+          "X49"
+        ]
+      }
+    },
+    "LOOP": {
+      "areaNumber": 32,
+      "rent": {
+        "avg": 2100,
+        "low": 1400,
+        "high": 3200
+      },
+      "crime": {
+        "total": 8565,
+        "per100k": 22372,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 38284,
+        "estimatedMedianIncome": 135113,
+        "households": 6882
+      },
+      "transit": {
+        "ctaStations": 16,
+        "ctaLines": [
+          "Brown",
+          "Orange",
+          "Pink",
+          "Purple",
+          "Green",
+          "Red",
+          "Blue"
+        ]
+      },
+      "bus": {
+        "busReliability": 0.919,
+        "busRouteCount": 4,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "120",
+          "121",
+          "124",
+          "125"
+        ]
+      }
+    },
+    "NEAR SOUTH SIDE": {
+      "areaNumber": 33,
+      "rent": {
+        "avg": 1900,
+        "low": 1300,
+        "high": 2800
+      },
+      "crime": {
+        "total": 2425,
+        "per100k": 9218,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 26307,
+        "estimatedMedianIncome": 138529,
+        "households": 5715
+      },
+      "transit": {
+        "ctaStations": 3,
+        "ctaLines": [
+          "Orange & Green Lines",
+          "Green",
+          "Red"
+        ]
+      },
+      "bus": {
+        "busReliability": 0.954,
+        "busRouteCount": 4,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "1",
+          "2",
+          "29",
+          "3"
+        ]
+      }
+    },
+    "ARMOUR SQUARE": {
+      "areaNumber": 34,
+      "rent": {
+        "avg": 1050,
+        "low": 750,
+        "high": 1400
+      },
+      "crime": {
+        "total": 1159,
+        "per100k": 8814,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 13149,
+        "estimatedMedianIncome": 72278,
+        "households": 3103
+      },
+      "transit": {
+        "ctaStations": 2,
+        "ctaLines": [
+          "Red"
+        ]
+      },
+      "bus": {
+        "busReliability": 0.963,
+        "busRouteCount": 3,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "21",
+          "31",
+          "39"
+        ]
+      }
+    },
+    "DOUGLAS": {
+      "areaNumber": 35,
+      "rent": {
+        "avg": 1300,
+        "low": 900,
+        "high": 1800
+      },
+      "crime": {
+        "total": 2890,
+        "per100k": 15513,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 18629,
+        "estimatedMedianIncome": 77009,
+        "households": 2954
+      },
+      "transit": {
+        "ctaStations": 1,
+        "ctaLines": [
+          "Green"
+        ]
+      },
+      "bus": {
+        "busReliability": 0.97,
+        "busRouteCount": 3,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "192",
+          "29",
+          "4"
+        ]
+      }
+    },
+    "OAKLAND": {
+      "areaNumber": 36,
+      "rent": {
+        "avg": 1200,
+        "low": 800,
+        "high": 1650
+      },
+      "crime": {
+        "total": 796,
+        "per100k": 18203,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 4373,
+        "estimatedMedianIncome": 62538,
+        "households": 1040
+      },
+      "transit": {
+        "ctaStations": 0,
+        "ctaLines": []
+      },
+      "bus": {
+        "busReliability": 0.944,
+        "busRouteCount": 1,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "2"
+        ]
+      }
+    },
+    "FULLER PARK": {
+      "areaNumber": 37,
+      "rent": {
+        "avg": 800,
+        "low": 550,
+        "high": 1100
+      },
+      "crime": {
+        "total": 685,
+        "per100k": 31336,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 2186,
+        "estimatedMedianIncome": 48610,
+        "households": 430
+      },
+      "transit": {
+        "ctaStations": 2,
+        "ctaLines": [
+          "Red"
+        ]
+      },
+      "bus": {
+        "busReliability": 0.963,
+        "busRouteCount": 3,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "24",
+          "39",
+          "43"
+        ]
+      }
+    },
+    "GRAND BOULEVARD": {
+      "areaNumber": 38,
+      "rent": {
+        "avg": 1100,
+        "low": 750,
+        "high": 1500
+      },
+      "crime": {
+        "total": 3392,
+        "per100k": 13673,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 24808,
+        "estimatedMedianIncome": 84582,
+        "households": 5206
+      },
+      "transit": {
+        "ctaStations": 4,
+        "ctaLines": [
+          "Green"
+        ]
+      },
+      "bus": {
+        "busReliability": null,
+        "busRouteCount": 0,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": []
+      }
+    },
+    "KENWOOD": {
+      "areaNumber": 39,
+      "rent": {
+        "avg": 1350,
+        "low": 950,
+        "high": 1850
+      },
+      "crime": {
+        "total": 2035,
+        "per100k": 14163,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 14368,
+        "estimatedMedianIncome": 102637,
+        "households": 2876
+      },
+      "transit": {
+        "ctaStations": 0,
+        "ctaLines": []
+      },
+      "bus": {
+        "busReliability": 0.914,
+        "busRouteCount": 2,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "192",
+          "6"
+        ]
+      }
+    },
+    "WASHINGTON PARK": {
+      "areaNumber": 40,
+      "rent": {
+        "avg": 900,
+        "low": 600,
+        "high": 1250
+      },
+      "crime": {
+        "total": 2443,
+        "per100k": 19762,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 12362,
+        "estimatedMedianIncome": 50140,
+        "households": 2717
+      },
+      "transit": {
+        "ctaStations": 1,
+        "ctaLines": [
+          "Green"
+        ]
+      },
+      "bus": {
+        "busReliability": 0.943,
+        "busRouteCount": 1,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "55"
+        ]
+      }
+    },
+    "HYDE PARK": {
+      "areaNumber": 41,
+      "rent": {
+        "avg": 1400,
+        "low": 950,
+        "high": 1950
+      },
+      "crime": {
+        "total": 2545,
+        "per100k": 10564,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 24092,
+        "estimatedMedianIncome": 120894,
+        "households": 3674
+      },
+      "transit": {
+        "ctaStations": 0,
+        "ctaLines": []
+      },
+      "bus": {
+        "busReliability": 0.94,
+        "busRouteCount": 5,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "15",
+          "171",
+          "172",
+          "26",
+          "J14"
+        ]
+      }
+    },
+    "WOODLAWN": {
+      "areaNumber": 42,
+      "rent": {
+        "avg": 1050,
+        "low": 700,
+        "high": 1450
+      },
+      "crime": {
+        "total": 3661,
+        "per100k": 14981,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 24437,
+        "estimatedMedianIncome": 70130,
+        "households": 4608
+      },
+      "transit": {
+        "ctaStations": 2,
+        "ctaLines": [
+          "Green"
+        ]
+      },
+      "bus": {
+        "busReliability": 0.953,
+        "busRouteCount": 4,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "15",
+          "26",
+          "28",
+          "63"
+        ]
+      }
+    },
+    "SOUTH SHORE": {
+      "areaNumber": 43,
+      "rent": {
+        "avg": 950,
+        "low": 650,
+        "high": 1300
+      },
+      "crime": {
+        "total": 8096,
+        "per100k": 17495,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 46276,
+        "estimatedMedianIncome": 69130,
+        "households": 9423
+      },
+      "transit": {
+        "ctaStations": 0,
+        "ctaLines": []
+      },
+      "bus": {
+        "busReliability": 0.97,
+        "busRouteCount": 1,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "71"
+        ]
+      }
+    },
+    "CHATHAM": {
+      "areaNumber": 44,
+      "rent": {
+        "avg": 900,
+        "low": 650,
+        "high": 1200
+      },
+      "crime": {
+        "total": 5350,
+        "per100k": 17017,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 31440,
+        "estimatedMedianIncome": 74062,
+        "households": 6544
+      },
+      "transit": {
+        "ctaStations": 2,
+        "ctaLines": [
+          "Red"
+        ]
+      },
+      "bus": {
+        "busReliability": null,
+        "busRouteCount": 0,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": []
+      }
+    },
+    "AVALON PARK": {
+      "areaNumber": 45,
+      "rent": {
+        "avg": 950,
+        "low": 700,
+        "high": 1250
+      },
+      "crime": {
+        "total": 1051,
+        "per100k": 11072,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 9492,
+        "estimatedMedianIncome": 83325,
+        "households": 2413
+      },
+      "transit": {
+        "ctaStations": 0,
+        "ctaLines": []
+      },
+      "bus": {
+        "busReliability": null,
+        "busRouteCount": 0,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": []
+      }
+    },
+    "SOUTH CHICAGO": {
+      "areaNumber": 46,
+      "rent": {
+        "avg": 850,
+        "low": 600,
+        "high": 1150
+      },
+      "crime": {
+        "total": 3719,
+        "per100k": 12792,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 29072,
+        "estimatedMedianIncome": 69569,
+        "households": 6339
+      },
+      "transit": {
+        "ctaStations": 0,
+        "ctaLines": []
+      },
+      "bus": {
+        "busReliability": 0.984,
+        "busRouteCount": 1,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "5"
+        ]
+      }
+    },
+    "BURNSIDE": {
+      "areaNumber": 47,
+      "rent": {
+        "avg": 800,
+        "low": 550,
+        "high": 1100
+      },
+      "crime": {
+        "total": 251,
+        "per100k": 11261,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 2229,
+        "estimatedMedianIncome": 92335,
+        "households": 440
+      },
+      "transit": {
+        "ctaStations": 0,
+        "ctaLines": []
+      },
+      "bus": {
+        "busReliability": null,
+        "busRouteCount": 0,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": []
+      }
+    },
+    "CALUMET HEIGHTS": {
+      "areaNumber": 48,
+      "rent": {
+        "avg": 950,
+        "low": 700,
+        "high": 1250
+      },
+      "crime": {
+        "total": 1329,
+        "per100k": 11003,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 12078,
+        "estimatedMedianIncome": 96905,
+        "households": 2901
+      },
+      "transit": {
+        "ctaStations": 0,
+        "ctaLines": []
+      },
+      "bus": {
+        "busReliability": 0.956,
+        "busRouteCount": 3,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "28",
+          "5",
+          "95"
+        ]
+      }
+    },
+    "ROSELAND": {
+      "areaNumber": 49,
+      "rent": {
+        "avg": 900,
+        "low": 650,
+        "high": 1200
+      },
+      "crime": {
+        "total": 5295,
+        "per100k": 14060,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 37660,
+        "estimatedMedianIncome": 71036,
+        "households": 8504
+      },
+      "transit": {
+        "ctaStations": 1,
+        "ctaLines": [
+          "Red"
+        ]
+      },
+      "bus": {
+        "busReliability": 0.969,
+        "busRouteCount": 5,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "103",
+          "111",
+          "115",
+          "119",
+          "8A"
+        ]
+      }
+    },
+    "PULLMAN": {
+      "areaNumber": 50,
+      "rent": {
+        "avg": 950,
+        "low": 700,
+        "high": 1250
+      },
+      "crime": {
+        "total": 1088,
+        "per100k": 15881,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 6851,
+        "estimatedMedianIncome": 74167,
+        "households": 1645
+      },
+      "transit": {
+        "ctaStations": 0,
+        "ctaLines": []
+      },
+      "bus": {
+        "busReliability": 0.966,
+        "busRouteCount": 2,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "106",
+          "111A"
+        ]
+      }
+    },
+    "SOUTH DEERING": {
+      "areaNumber": 51,
+      "rent": {
+        "avg": 850,
+        "low": 600,
+        "high": 1150
+      },
+      "crime": {
+        "total": 1845,
+        "per100k": 12219,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 15100,
+        "estimatedMedianIncome": 66454,
+        "households": 3340
+      },
+      "transit": {
+        "ctaStations": 0,
+        "ctaLines": []
+      },
+      "bus": {
+        "busReliability": 0.951,
+        "busRouteCount": 2,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "100",
+          "95"
+        ]
+      }
+    },
+    "EAST SIDE": {
+      "areaNumber": 52,
+      "rent": {
+        "avg": 900,
+        "low": 650,
+        "high": 1200
+      },
+      "crime": {
+        "total": 1407,
+        "per100k": 5955,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 23629,
+        "estimatedMedianIncome": 78208,
+        "households": 5612
+      },
+      "transit": {
+        "ctaStations": 0,
+        "ctaLines": []
+      },
+      "bus": {
+        "busReliability": 0.971,
+        "busRouteCount": 1,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "30"
+        ]
+      }
+    },
+    "WEST PULLMAN": {
+      "areaNumber": 53,
+      "rent": {
+        "avg": 850,
+        "low": 600,
+        "high": 1150
+      },
+      "crime": {
+        "total": 3228,
+        "per100k": 12830,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 25159,
+        "estimatedMedianIncome": 74125,
+        "households": 5857
+      },
+      "transit": {
+        "ctaStations": 0,
+        "ctaLines": []
+      },
+      "bus": {
+        "busReliability": 0.954,
+        "busRouteCount": 2,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "119",
+          "34"
+        ]
+      }
+    },
+    "RIVERDALE": {
+      "areaNumber": 54,
+      "rent": {
+        "avg": 750,
+        "low": 500,
+        "high": 1050
+      },
+      "crime": {
+        "total": 1067,
+        "per100k": 13786,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 7740,
+        "estimatedMedianIncome": 37118,
+        "households": 1865
+      },
+      "transit": {
+        "ctaStations": 0,
+        "ctaLines": []
+      },
+      "bus": {
+        "busReliability": null,
+        "busRouteCount": 0,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": []
+      }
+    },
+    "HEGEWISCH": {
+      "areaNumber": 55,
+      "rent": {
+        "avg": 950,
+        "low": 700,
+        "high": 1250
+      },
+      "crime": {
+        "total": 766,
+        "per100k": 8612,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 8895,
+        "estimatedMedianIncome": 91694,
+        "households": 2136
+      },
+      "transit": {
+        "ctaStations": 0,
+        "ctaLines": []
+      },
+      "bus": {
+        "busReliability": 0.971,
+        "busRouteCount": 1,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "30"
+        ]
+      }
+    },
+    "GARFIELD RIDGE": {
+      "areaNumber": 56,
+      "rent": {
+        "avg": 1050,
+        "low": 750,
+        "high": 1400
+      },
+      "crime": {
+        "total": 2040,
+        "per100k": 5625,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 36265,
+        "estimatedMedianIncome": 106570,
+        "households": 8908
+      },
+      "transit": {
+        "ctaStations": 1,
+        "ctaLines": [
+          "Orange"
+        ]
+      },
+      "bus": {
+        "busReliability": 0.905,
+        "busRouteCount": 4,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "54B",
+          "55A",
+          "55N",
+          "62H"
+        ]
+      }
+    },
+    "ARCHER HEIGHTS": {
+      "areaNumber": 57,
+      "rent": {
+        "avg": 1000,
+        "low": 700,
+        "high": 1350
+      },
+      "crime": {
+        "total": 1099,
+        "per100k": 7921,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 13875,
+        "estimatedMedianIncome": 87693,
+        "households": 2950
+      },
+      "transit": {
+        "ctaStations": 1,
+        "ctaLines": [
+          "Orange"
+        ]
+      },
+      "bus": {
+        "busReliability": 0.952,
+        "busRouteCount": 1,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "53A"
+        ]
+      }
+    },
+    "BRIGHTON PARK": {
+      "areaNumber": 58,
+      "rent": {
+        "avg": 950,
+        "low": 700,
+        "high": 1250
+      },
+      "crime": {
+        "total": 1991,
+        "per100k": 4700,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 42360,
+        "estimatedMedianIncome": 71589,
+        "households": 9807
+      },
+      "transit": {
+        "ctaStations": 1,
+        "ctaLines": [
+          "Orange"
+        ]
+      },
+      "bus": {
+        "busReliability": 0.955,
+        "busRouteCount": 5,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "35",
+          "47",
+          "49",
+          "52",
+          "94"
+        ]
+      }
+    },
+    "MCKINLEY PARK": {
+      "areaNumber": 59,
+      "rent": {
+        "avg": 1100,
+        "low": 800,
+        "high": 1450
+      },
+      "crime": {
+        "total": 939,
+        "per100k": 6097,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 15400,
+        "estimatedMedianIncome": 89694,
+        "households": 3618
+      },
+      "transit": {
+        "ctaStations": 1,
+        "ctaLines": [
+          "Orange"
+        ]
+      },
+      "bus": {
+        "busReliability": 0.923,
+        "busRouteCount": 4,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "35",
+          "62",
+          "X49",
+          "X9"
+        ]
+      }
+    },
+    "BRIDGEPORT": {
+      "areaNumber": 60,
+      "rent": {
+        "avg": 1200,
+        "low": 850,
+        "high": 1600
+      },
+      "crime": {
+        "total": 1683,
+        "per100k": 5098,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 33012,
+        "estimatedMedianIncome": 91761,
+        "households": 7822
+      },
+      "transit": {
+        "ctaStations": 1,
+        "ctaLines": [
+          "Orange"
+        ]
+      },
+      "bus": {
+        "busReliability": 0.924,
+        "busRouteCount": 3,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "44",
+          "62",
+          "8"
+        ]
+      }
+    },
+    "NEW CITY": {
+      "areaNumber": 61,
+      "rent": {
+        "avg": 900,
+        "low": 650,
+        "high": 1200
+      },
+      "crime": {
+        "total": 3594,
+        "per100k": 8800,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 40843,
+        "estimatedMedianIncome": 67402,
+        "households": 8902
+      },
+      "transit": {
+        "ctaStations": 0,
+        "ctaLines": []
+      },
+      "bus": {
+        "busReliability": 0.956,
+        "busRouteCount": 2,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "44",
+          "51"
+        ]
+      }
+    },
+    "WEST ELSDON": {
+      "areaNumber": 62,
+      "rent": {
+        "avg": 1000,
+        "low": 750,
+        "high": 1300
+      },
+      "crime": {
+        "total": 914,
+        "per100k": 5022,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 18201,
+        "estimatedMedianIncome": 88599,
+        "households": 3985
+      },
+      "transit": {
+        "ctaStations": 0,
+        "ctaLines": []
+      },
+      "bus": {
+        "busReliability": null,
+        "busRouteCount": 0,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": []
+      }
+    },
+    "GAGE PARK": {
+      "areaNumber": 63,
+      "rent": {
+        "avg": 950,
+        "low": 700,
+        "high": 1250
+      },
+      "crime": {
+        "total": 2212,
+        "per100k": 6384,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 34650,
+        "estimatedMedianIncome": 73979,
+        "households": 7486
+      },
+      "transit": {
+        "ctaStations": 1,
+        "ctaLines": [
+          "Orange"
+        ]
+      },
+      "bus": {
+        "busReliability": 0.964,
+        "busRouteCount": 1,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "51"
+        ]
+      }
+    },
+    "CLEARING": {
+      "areaNumber": 64,
+      "rent": {
+        "avg": 1050,
+        "low": 750,
+        "high": 1400
+      },
+      "crime": {
+        "total": 1047,
+        "per100k": 4237,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 24710,
+        "estimatedMedianIncome": 98178,
+        "households": 5948
+      },
+      "transit": {
+        "ctaStations": 0,
+        "ctaLines": []
+      },
+      "bus": {
+        "busReliability": 0.926,
+        "busRouteCount": 3,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "165",
+          "54B",
+          "63W"
+        ]
+      }
+    },
+    "WEST LAWN": {
+      "areaNumber": 65,
+      "rent": {
+        "avg": 1000,
+        "low": 700,
+        "high": 1350
+      },
+      "crime": {
+        "total": 1729,
+        "per100k": 5328,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 32451,
+        "estimatedMedianIncome": 88648,
+        "households": 6972
+      },
+      "transit": {
+        "ctaStations": 0,
+        "ctaLines": []
+      },
+      "bus": {
+        "busReliability": null,
+        "busRouteCount": 0,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": []
+      }
+    },
+    "CHICAGO LAWN": {
+      "areaNumber": 66,
+      "rent": {
+        "avg": 950,
+        "low": 650,
+        "high": 1300
+      },
+      "crime": {
+        "total": 4728,
+        "per100k": 9050,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 52245,
+        "estimatedMedianIncome": 66839,
+        "households": 11518
+      },
+      "transit": {
+        "ctaStations": 0,
+        "ctaLines": []
+      },
+      "bus": {
+        "busReliability": 0.933,
+        "busRouteCount": 1,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "67"
+        ]
+      }
+    },
+    "WEST ENGLEWOOD": {
+      "areaNumber": 67,
+      "rent": {
+        "avg": 800,
+        "low": 550,
+        "high": 1100
+      },
+      "crime": {
+        "total": 4263,
+        "per100k": 16414,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 25971,
+        "estimatedMedianIncome": 57776,
+        "households": 5638
+      },
+      "transit": {
+        "ctaStations": 1,
+        "ctaLines": [
+          "Green Line (Englewood)"
+        ]
+      },
+      "bus": {
+        "busReliability": 0.944,
+        "busRouteCount": 2,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "48",
+          "63"
+        ]
+      }
+    },
+    "ENGLEWOOD": {
+      "areaNumber": 68,
+      "rent": {
+        "avg": 750,
+        "low": 500,
+        "high": 1050
+      },
+      "crime": {
+        "total": 4962,
+        "per100k": 23255,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 21337,
+        "estimatedMedianIncome": 52740,
+        "households": 4545
+      },
+      "transit": {
+        "ctaStations": 2,
+        "ctaLines": [
+          "Green",
+          "Red"
+        ]
+      },
+      "bus": {
+        "busReliability": 0.945,
+        "busRouteCount": 3,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "24",
+          "59",
+          "8"
+        ]
+      }
+    },
+    "GREATER GRAND CROSSING": {
+      "areaNumber": 69,
+      "rent": {
+        "avg": 850,
+        "low": 600,
+        "high": 1150
+      },
+      "crime": {
+        "total": 6091,
+        "per100k": 20966,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 29052,
+        "estimatedMedianIncome": 60477,
+        "households": 6657
+      },
+      "transit": {
+        "ctaStations": 1,
+        "ctaLines": [
+          "Red"
+        ]
+      },
+      "bus": {
+        "busReliability": 0.959,
+        "busRouteCount": 1,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "75"
+        ]
+      }
+    },
+    "ASHBURN": {
+      "areaNumber": 70,
+      "rent": {
+        "avg": 1050,
+        "low": 750,
+        "high": 1400
+      },
+      "crime": {
+        "total": 2000,
+        "per100k": 4668,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 42842,
+        "estimatedMedianIncome": 94365,
+        "households": 9882
+      },
+      "transit": {
+        "ctaStations": 0,
+        "ctaLines": []
+      },
+      "bus": {
+        "busReliability": 0.949,
+        "busRouteCount": 2,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "53A",
+          "79"
+        ]
+      }
+    },
+    "AUBURN GRESHAM": {
+      "areaNumber": 71,
+      "rent": {
+        "avg": 850,
+        "low": 600,
+        "high": 1150
+      },
+      "crime": {
+        "total": 6095,
+        "per100k": 13112,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 46483,
+        "estimatedMedianIncome": 70548,
+        "households": 10636
+      },
+      "transit": {
+        "ctaStations": 0,
+        "ctaLines": []
+      },
+      "bus": {
+        "busReliability": 0.849,
+        "busRouteCount": 1,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "87"
+        ]
+      }
+    },
+    "BEVERLY": {
+      "areaNumber": 72,
+      "rent": {
+        "avg": 1250,
+        "low": 900,
+        "high": 1650
+      },
+      "crime": {
+        "total": 983,
+        "per100k": 4962,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 19811,
+        "estimatedMedianIncome": 130780,
+        "households": 5138
+      },
+      "transit": {
+        "ctaStations": 0,
+        "ctaLines": []
+      },
+      "bus": {
+        "busReliability": null,
+        "busRouteCount": 0,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": []
+      }
+    },
+    "WASHINGTON HEIGHTS": {
+      "areaNumber": 73,
+      "rent": {
+        "avg": 900,
+        "low": 650,
+        "high": 1200
+      },
+      "crime": {
+        "total": 2797,
+        "per100k": 10631,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 26310,
+        "estimatedMedianIncome": 87803,
+        "households": 6415
+      },
+      "transit": {
+        "ctaStations": 0,
+        "ctaLines": []
+      },
+      "bus": {
+        "busReliability": 0.928,
+        "busRouteCount": 3,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "103",
+          "108",
+          "8A"
+        ]
+      }
+    },
+    "MOUNT GREENWOOD": {
+      "areaNumber": 74,
+      "rent": {
+        "avg": 1150,
+        "low": 850,
+        "high": 1500
+      },
+      "crime": {
+        "total": 524,
+        "per100k": 2742,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 19107,
+        "estimatedMedianIncome": 129972,
+        "households": 4419
+      },
+      "transit": {
+        "ctaStations": 0,
+        "ctaLines": []
+      },
+      "bus": {
+        "busReliability": 0.957,
+        "busRouteCount": 1,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "52A"
+        ]
+      }
+    },
+    "MORGAN PARK": {
+      "areaNumber": 75,
+      "rent": {
+        "avg": 1050,
+        "low": 750,
+        "high": 1400
+      },
+      "crime": {
+        "total": 1867,
+        "per100k": 8770,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 21288,
+        "estimatedMedianIncome": 95424,
+        "households": 5038
+      },
+      "transit": {
+        "ctaStations": 0,
+        "ctaLines": []
+      },
+      "bus": {
+        "busReliability": 0.936,
+        "busRouteCount": 2,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "111",
+          "112"
+        ]
+      }
+    },
+    "OHARE": {
+      "areaNumber": 76,
+      "rent": {
+        "avg": 1100,
+        "low": 800,
+        "high": 1450
+      },
+      "crime": {
+        "total": 1677,
+        "per100k": 10300,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 16281,
+        "estimatedMedianIncome": 91745,
+        "households": 4261
+      },
+      "transit": {
+        "ctaStations": 2,
+        "ctaLines": [
+          "Blue"
+        ]
+      },
+      "bus": {
+        "busReliability": null,
+        "busRouteCount": 0,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": []
+      }
+    },
+    "EDGEWATER": {
+      "areaNumber": 77,
+      "rent": {
+        "avg": 1300,
+        "low": 900,
+        "high": 1750
+      },
+      "crime": {
+        "total": 2997,
+        "per100k": 6312,
+        "year": 2025
+      },
+      "demographics": {
+        "population": 47484,
+        "estimatedMedianIncome": 108292,
+        "households": 8462
+      },
+      "transit": {
+        "ctaStations": 4,
+        "ctaLines": [
+          "Red"
+        ]
+      },
+      "bus": {
+        "busReliability": 0.97,
+        "busRouteCount": 1,
+        "busAvgWeekdayRiders": 0,
+        "busRoutes": [
+          "84"
+        ]
+      }
+    }
+  }
+}
