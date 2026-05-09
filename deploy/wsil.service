@@ -1,0 +1,25 @@
+[Unit]
+Description=whereshouldiliveinchicago Next.js app
+After=network.target
+
+[Service]
+Type=simple
+User=deploy
+Group=deploy
+WorkingDirectory=/opt/wsil
+EnvironmentFile=/etc/wsil.env
+ExecStart=/usr/bin/npm run start
+Restart=on-failure
+RestartSec=5
+StandardOutput=journal
+StandardError=journal
+
+# Hardening
+NoNewPrivileges=true
+ProtectSystem=strict
+ProtectHome=true
+ReadWritePaths=/opt/wsil/.next /opt/wsil/node_modules/.cache
+PrivateTmp=true
+
+[Install]
+WantedBy=multi-user.target
